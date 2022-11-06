@@ -9,3 +9,10 @@ The variables and coefficients that provided a non-random amount of variance to 
 The resultant slope is non-zero and is indicated by the r-squared value of 0.7149 for the multiple regression. This outperforms the adjusted r-squared which is 0.6825.
 
 This linear model does predict the mpg of Mecha-Car models effectively because the resultant r-squared value has a p-value of 5.35e-11 which is statistically significant.
+
+## Summary Statistics on Suspension Coils
+Total Summary
+<img width="309" alt="Screen Shot 2022-11-05 at 9 12 45 PM" src="https://user-images.githubusercontent.com/108832056/200149398-79965f87-a0f2-484b-920f-09c6b324a416.png">
+Lot Summary
+<img width="460" alt="Screen Shot 2022-11-05 at 9 13 01 PM" src="https://user-images.githubusercontent.com/108832056/200149401-99ecf7fa-7ee1-422e-b779-93f86be56632.png">
+
