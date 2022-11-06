@@ -19,3 +19,4 @@ Lot Summary
 
 <img width="460" alt="Screen Shot 2022-11-05 at 9 13 01 PM" src="https://user-images.githubusercontent.com/108832056/200149401-99ecf7fa-7ee1-422e-b779-93f86be56632.png">
 
+Looking at the total summary of the data, it looks initially like the suspension coils meet the specification of not having variance exceed 100 pounds per square inch. When the individual lots are grouped together, however, it is clear that Lot 3 fails to meet this specification, having a variance of 170+ PSI. This suggests that the Lot 3 suspension coils should not be used.
