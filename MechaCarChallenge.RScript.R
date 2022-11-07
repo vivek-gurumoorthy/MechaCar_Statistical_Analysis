@@ -14,3 +14,10 @@ colnames(total_summary) <- c("Mean", "Median", "Variance", "SD")
 lot_summary = susp_table %>% group_by(Manufacturing_Lot)  %>%
   summarize(Mean = mean(PSI), Median = median(PSI), Variance = var(PSI), SD = sd(PSI),
             .groups = 'drop')
+
+t.test(susp_table$PSI, mu=1500) #t-test for aggregate suspension
+
+t.test(subset(susp_table, Manufacturing_Lot=="Lot1")$PSI, mu = 1500) # t-test for per lot suspension
+t.test(subset(susp_table, Manufacturing_Lot=="Lot2")$PSI, mu = 1500)
+t.test(subset(susp_table, Manufacturing_Lot=="Lot3")$PSI, mu = 1500)
+
