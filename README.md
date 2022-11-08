@@ -33,3 +33,4 @@ The t-tests comparng the population mean of 1500 PSI with the total mean and eac
 
 
 ## Study Design: MechaCar vs Competition
+To test how efficient and environment friendly MechaCars are, a study could be arranged comparing the mpg of mechacars at city, highway, and combined mpg
