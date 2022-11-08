@@ -27,3 +27,4 @@ Looking at the total summary of the data, it looks initially like the suspension
 ![Screen Shot 2022-11-07 at 6 57 58 PM](https://user-images.githubusercontent.com/108832056/200440850-4051f3b8-cfbd-4d3d-b177-298c838e7d28.png)
 ![Screen Shot 2022-11-07 at 6 58 14 PM](https://user-images.githubusercontent.com/108832056/200440883-5dedccaf-324a-4ae9-b1ca-4f2bf2534e7d.png)
 
+## Study Design: MechaCar vs Competition
