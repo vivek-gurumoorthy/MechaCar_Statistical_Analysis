@@ -10,6 +10,7 @@ The resultant slope is non-zero and is indicated by the r-squared value of 0.714
 
 This linear model does predict the mpg of Mecha-Car models effectively because the resultant r-squared value has a p-value of 5.35e-11 which is statistically significant.
 
+
 ## Summary Statistics on Suspension Coils
 Total Summary
 
@@ -21,6 +22,7 @@ Lot Summary
 
 Looking at the total summary of the data, it looks initially like the suspension coils meet the specification of not having variance exceed 100 pounds per square inch. When the individual lots are grouped together, however, it is clear that Lot 3 fails to meet this specification, having a variance of 170+ PSI. This suggests that the Lot 3 suspension coils should not be used.
 
+
 ## T-Tests on Suspension Coils
 ![Screen Shot 2022-11-07 at 6 57 25 PM](https://user-images.githubusercontent.com/108832056/200440767-107ddd0b-48a9-4c62-b1e9-beed93badd5c.png)
 ![Screen Shot 2022-11-07 at 6 57 46 PM](https://user-images.githubusercontent.com/108832056/200440826-82b0e735-e585-466c-b4ed-f1edb1f210e4.png)
@@ -28,5 +30,6 @@ Looking at the total summary of the data, it looks initially like the suspension
 ![Screen Shot 2022-11-07 at 6 58 14 PM](https://user-images.githubusercontent.com/108832056/200440883-5dedccaf-324a-4ae9-b1ca-4f2bf2534e7d.png)
 
 The t-tests comparng the population mean of 1500 PSI with the total mean and each individual lot mean had some interesting results. For the total summary mean and for Lots 1-2, the 95% confidence interval estimating PSI is generally between 1499-1500, meaning that the means of these samples are similar to the overall population mean of 1500. For Lot 3, however, the 95% confidence interval is only 1492.4 - 1499.849. This means that the mean of this sample is meaningfully different from the population mean, perhaps casting some doubt on the reliability of Lot 3. 
+
 
 ## Study Design: MechaCar vs Competition
