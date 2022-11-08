@@ -33,4 +33,4 @@ The t-tests comparng the population mean of 1500 PSI with the total mean and eac
 
 
 ## Study Design: MechaCar vs Competition
-To test how efficient and environment friendly MechaCars are, a study could be arranged comparing the mpg of mechacars at city, highway, and combined mpg
+To test how efficient and environment friendly MechaCars are, a study could be arranged comparing the mpg of mechacars at city, highway, and combined mpg. The null hypothesis would be that the environmental mpg metrics of MechaCars are no different than those of competitor cars of similar model. To test this hypothesis, the best method would likely be a one way ANOVA because it would be comparing mpg of Mecha Cars to those of many other brands with a similar vehicle make/model. To run this statistical test, highway, city, and combined mpg would all be needed for all eligible cars from that year to make this comparison. 
