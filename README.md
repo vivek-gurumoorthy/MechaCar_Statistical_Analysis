@@ -26,5 +26,6 @@ Looking at the total summary of the data, it looks initially like the suspension
 ![Screen Shot 2022-11-07 at 6 57 46 PM](https://user-images.githubusercontent.com/108832056/200440826-82b0e735-e585-466c-b4ed-f1edb1f210e4.png)
 ![Screen Shot 2022-11-07 at 6 57 58 PM](https://user-images.githubusercontent.com/108832056/200440850-4051f3b8-cfbd-4d3d-b177-298c838e7d28.png)
 ![Screen Shot 2022-11-07 at 6 58 14 PM](https://user-images.githubusercontent.com/108832056/200440883-5dedccaf-324a-4ae9-b1ca-4f2bf2534e7d.png)
+The t-tests comparng the population mean of 1500 PSI with the total mean and each individual lot mean had some interesting results. For the total summary mean and for Lots 1-2, the 95% confidence interval estimating PSI is generally between 1499-1500, meaning that the means of these samples are similar to the overall population mean of 1500. For Lot 3, however, the 95% confidence interval is only 1492.4 - 1499.849. This means that the mean of this sample is meaningfully different from the population mean, perhaps casting some doubt on the reliability of Lot 3. 
 
 ## Study Design: MechaCar vs Competition
